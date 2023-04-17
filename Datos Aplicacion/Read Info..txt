@@ -1,1 +1,0 @@
-En está carpeta se van a guardar uno o varios archivos que va a guardar la información y configuración del programa.
